@@ -8,3 +8,6 @@ https://github.com/rfordatascience/tidytuesday
 
 # Week 10
 - On a bar plot: move the bar plot labels onto the bars
+
+# Week 11
+- Add cool fonts and change background color of plot
